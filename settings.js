@@ -4,7 +4,7 @@ const fs = require("fs")
 
 //aumto presence update
 global.AntiCallBot = false // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
-global.GroupWcMsg = true // false a i dah chuan welcome message i off ang
+global.GroupWcMsg = false // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
 global.available = false // false a i dah chuan offline angin a awm ang
@@ -20,7 +20,7 @@ global.owner = ['916909438834'] // I phone number in thlak rawh
 global.ownernumber = '916909438834' // I phone number in thlak rawh
 global.ownername = "꧁vao thangtea♕꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Siaha" // I awmna hmun daha
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.botname = "Remsiali" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "916909438834@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
