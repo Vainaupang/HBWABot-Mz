@@ -18,7 +18,7 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 //info
 global.owner = ['916909438834'] // I phone number in thlak rawh
 global.ownernumber = '916909438834' // I phone number in thlak rawh
-global.ownername = "꧁vao thangtea♕꧂" // I hming dah tel bawk la
+global.ownername = "꧁REMSIALI♕꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Siaha" // I awmna hmun daha
 global.botname = "Remsiali" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
