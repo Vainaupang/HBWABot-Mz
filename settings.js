@@ -5,7 +5,7 @@ const fs = require("fs")
 //aumto presence update
 global.AntiCallBot = false // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
 global.GroupWcMsg = false // false a i dah chuan welcome message i off ang
-global.autoTyping = false // true a i dah chuan i type la a lang ang
+global.autoTyping = true // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
 global.public = false // false ah i dah chuan nang chauhin i hmang thei ang
 global.autoread = false // true a i dah chuan message zawng zawng read vek zelin a awm ang 
